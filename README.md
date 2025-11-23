@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Rizqin+👋;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Rizqi n+👋;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -82,11 +82,7 @@
 
 ---
 
-## 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://github.com/rizqinrr/rizqinrr/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
